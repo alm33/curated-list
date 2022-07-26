@@ -6,7 +6,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
 * [C4 model](https://c4model.com/)
   Simple diagrams to document systems
 * [Microservices patterns - Chris Richardson](https://microservices.io/index.html)
-* [draw.iohttps://app.diagrams.net/](https://app.diagrams.net/)
+* [draw.io](https://app.diagrams.net/)
 
 # Doc
 * [MkDocs](https://www.mkdocs.org/)
@@ -73,6 +73,10 @@ List of tools, frameworks, websites I am using or interested in at the minute
 * [javadoc.io](https://www.javadoc.io/)
   Javadoc for a lot of projects available here
 * [Jbang](https://www.jbang.dev/)
+
+## Kotlin
+* [Kotest](https://kotest.io/) Test framework and assertions library for Kotlin
+* [MockK](https://mockk.io/) Mocking framework
 
 ## API
 * [Insomnia](https://insomnia.rest/)

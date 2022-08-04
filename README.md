@@ -124,6 +124,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
   ArangoDB is a scalable open-source multi-model database natively supporting graph, document and search. All supported data models & access patterns can be combined in queries allowing for maximal flexibility. ArangoDB runs on prem, in the cloud – anywhere.
 * [CockroachDB](https://github.com/cockroachdb/cockroach)
   CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. It scales horizontally; survives disk, machine, rack, and even datacenter failures with minimal latency disruption and no manual intervention; supports strongly-consistent ACID transactions; and provides a familiar SQL API for structuring, manipulating, and querying data.
+* [SingleStore](https://www.singlestore.com/) previously MemSQL
 
 # Low code
 * [Microsoft PowerApps](https://powerapps.microsoft.com/en-us/)

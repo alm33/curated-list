@@ -77,6 +77,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
 ## Kotlin
 * [Kotest](https://kotest.io/) Test framework and assertions library for Kotlin
 * [MockK](https://mockk.io/) Mocking framework
+* [Awesome kotlin](https://github.com/KotlinBy/awesome-kotlin/blob/readme/README.md)
 
 ## API
 * [Insomnia](https://insomnia.rest/)

@@ -126,6 +126,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
 * [CockroachDB](https://github.com/cockroachdb/cockroach)
   CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. It scales horizontally; survives disk, machine, rack, and even datacenter failures with minimal latency disruption and no manual intervention; supports strongly-consistent ACID transactions; and provides a familiar SQL API for structuring, manipulating, and querying data.
 * [SingleStore](https://www.singlestore.com/) previously MemSQL
+* [Dolt](https://github.com/dolthub/dolt) Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a Git repository
 
 # Low code
 * [Microsoft PowerApps](https://powerapps.microsoft.com/en-us/)

@@ -62,6 +62,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
   DevDocs combines multiple API documentations in a fast, organized, and searchable interface
 * [warp](https://www.warp.dev/)
   Terminal app for MacOS
+* [Topgrade](https://github.com/r-darwish/topgrade) Topgrade uses tools and package manager installed on your machine to upgrade everything in a single command
 
 # Backend
 ## Java

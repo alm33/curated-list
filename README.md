@@ -81,6 +81,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
 * [MockK](https://mockk.io/) Mocking framework
 * [Awesome kotlin](https://github.com/KotlinBy/awesome-kotlin/blob/readme/README.md)
 * [Shapeshift](https://github.com/krud-dev/shapeshift) object mapping
+* [http4k](https://github.com/http4k/http4k) http4k provides a simple and uniform way to serve, consume, and test HTTP services
 
 ## API
 * [Insomnia](https://insomnia.rest/)

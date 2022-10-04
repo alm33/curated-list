@@ -2,6 +2,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
 
 # Architecture
 * [Martin Fowler blog](https://martinfowler.com/)
+* [Clean coder](https://blog.cleancoder.com/) Robert C. Martin (uncle Bob)
 * [Joel on Software](https://www.joelonsoftware.com/)
 * [C4 model](https://c4model.com/)
   Simple diagrams to document systems

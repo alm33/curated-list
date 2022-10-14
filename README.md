@@ -113,6 +113,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
 # Quality
 ## Tests
 * [opentest](https://getopentest.org/) Web, mobile and AP testing tool from Mcdonald's
+* [Playwright](https://playwright.dev/) end to end testing for webapps
 ## Tools
 * [stepsize](https://www.stepsize.com/)
   Issue tracker from the IDE

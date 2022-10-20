@@ -135,7 +135,14 @@ List of tools, frameworks, websites I am using or interested in at the minute
 * [CockroachDB](https://github.com/cockroachdb/cockroach)
   CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. It scales horizontally; survives disk, machine, rack, and even datacenter failures with minimal latency disruption and no manual intervention; supports strongly-consistent ACID transactions; and provides a familiar SQL API for structuring, manipulating, and querying data.
 * [SingleStore](https://www.singlestore.com/) previously MemSQL
+
+### Immutable databases
+* [Immudb](https://github.com/codenotary/immudb) immudb is a database written in Go, but unlike other databases, it is immutable: history is preserved and can't be changed without clients noticing.
+* [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/)
+
+### Version controlled databases
 * [Dolt](https://github.com/dolthub/dolt) Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a Git repository
+* [TerminusDB](https://github.com/terminusdb/terminusdb)
 
 ## Brokers/Streaming
 * [Redpanda](https://redpanda.com/) Redpanda is a Kafka®-compatible streaming data platform that is up to 10x faster and 6x more hardware-efficient. It is also JVM-free, ZooKeeper®-free, Jepsen-tested and source available.

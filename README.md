@@ -136,6 +136,9 @@ List of tools, frameworks, websites I am using or interested in at the minute
 * [SingleStore](https://www.singlestore.com/) previously MemSQL
 * [Dolt](https://github.com/dolthub/dolt) Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a Git repository
 
+## Brokers/Streaming
+* [Redpanda](https://redpanda.com/) Redpanda is a Kafka®-compatible streaming data platform that is up to 10x faster and 6x more hardware-efficient. It is also JVM-free, ZooKeeper®-free, Jepsen-tested and source available.
+
 # Low code
 * [Microsoft PowerApps](https://powerapps.microsoft.com/en-us/)
 * [Oracle APEX](https://apex.oracle.com/en/)

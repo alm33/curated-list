@@ -138,11 +138,11 @@ List of tools, frameworks, websites I am using or interested in at the minute
 
 ### Immutable databases
 * [Immudb](https://github.com/codenotary/immudb) immudb is a database written in Go, but unlike other databases, it is immutable: history is preserved and can't be changed without clients noticing.
-* [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/)
+* [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/) Maintain an immutable, cryptographically verifiable log of data changes
 
 ### Version controlled databases
 * [Dolt](https://github.com/dolthub/dolt) Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a Git repository
-* [TerminusDB](https://github.com/terminusdb/terminusdb)
+* [TerminusDB](https://github.com/terminusdb/terminusdb) TerminusDB is an immutable database, storing changes as deltas. Immutability enables collaboration workflows, version control, diff and patch, time travel, and the ability to branch, clone, and merge your database
 
 ## Brokers/Streaming
 * [Redpanda](https://redpanda.com/) Redpanda is a Kafka®-compatible streaming data platform that is up to 10x faster and 6x more hardware-efficient. It is also JVM-free, ZooKeeper®-free, Jepsen-tested and source available.

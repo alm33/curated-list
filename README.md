@@ -139,6 +139,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
 ### Immutable databases
 * [Immudb](https://github.com/codenotary/immudb) immudb is a database written in Go, but unlike other databases, it is immutable: history is preserved and can't be changed without clients noticing.
 * [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/) Maintain an immutable, cryptographically verifiable log of data changes
+* [xtdb](https://xtdb.com/) Immutable bi-temporal database
 
 ### Version controlled databases
 * [Dolt](https://github.com/dolthub/dolt) Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a Git repository

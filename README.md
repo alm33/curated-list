@@ -151,7 +151,6 @@ List of tools, frameworks, websites I am using or interested in at the minute
 # Low code
 * [Microsoft PowerApps](https://powerapps.microsoft.com/en-us/)
 * [Oracle APEX](https://apex.oracle.com/en/)
-* [Jmix](https://www.jmix.io/framework/)
 * [appsmith](https://github.com/appsmithorg/appsmith)
   Internal admin UI
 * [Retool](https://retool.com/)
@@ -159,6 +158,10 @@ List of tools, frameworks, websites I am using or interested in at the minute
   Build internal apps in minutes, the easy way
 * [nocodb](https://nocodb.com/)
   NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
+
+## RAD
+* [Jmix](https://www.jmix.io/framework/)
+* [Bootify](https://bootify.io/)
 
 ## Prototyping
 * [JSON server](https://github.com/typicode/json-server)

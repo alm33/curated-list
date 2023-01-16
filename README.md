@@ -66,7 +66,8 @@ List of tools, frameworks, websites I am using or interested in at the minute
   Terminal app for MacOS
 * [Topgrade](https://github.com/r-darwish/topgrade) Topgrade uses tools and package manager installed on your machine to upgrade everything in a single command
 * [Starship](https://starship.rs/) cross shell prompt
-*[lnav](https://github.com/tstack/lnav) log file navigator
+* [lnav](https://github.com/tstack/lnav) log file navigator
+* [explainshell](https://explainshell.com/) give it a command line (arguments included), it explains what it does
 
 # Backend
 ## Java

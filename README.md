@@ -68,6 +68,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
 * [Starship](https://starship.rs/) cross shell prompt
 * [lnav](https://github.com/tstack/lnav) log file navigator
 * [explainshell](https://explainshell.com/) give it a command line (arguments included), it explains what it does
+* [Zoxide](https://github.com/ajeetdsouza/zoxide) clever "cd" alternative
 
 # Backend
 ## Java

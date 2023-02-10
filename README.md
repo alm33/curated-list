@@ -69,6 +69,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
 * [lnav](https://github.com/tstack/lnav) log file navigator
 * [explainshell](https://explainshell.com/) give it a command line (arguments included), it explains what it does
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) clever "cd" alternative
+* [JSON Diff](https://www.jsondiff.com/) Compare 2 jsons in any order
 
 # Backend
 ## Java

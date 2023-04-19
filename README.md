@@ -70,6 +70,7 @@ List of tools, frameworks, websites I am using or interested in at the minute
 * [explainshell](https://explainshell.com/) give it a command line (arguments included), it explains what it does
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) clever "cd" alternative
 * [JSON Diff](https://www.jsondiff.com/) Compare 2 jsons in any order
+* [Awesome command palette](https://github.com/stefanjudis/awesome-command-palette) list of apps implementing a command palette shortcut
 
 # Backend
 ## Java

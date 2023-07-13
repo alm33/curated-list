@@ -57,6 +57,8 @@ List of tools, frameworks, websites I am using or interested in at the minute
 * [Liquibase](https://www.liquibase.org/)
 
 # Dev tools
+* [Dasel](https://github.com/TomWright/dasel) Dasel (short for data-selector) allows you to query and modify data structures using selector strings.
+Comparable to jq / yq, but supports JSON, YAML, TOML, XML and CSV with zero runtime dependencies.
 * [scoop](https://github.com/ScoopInstaller/Scoop/wiki)
   Windows package manager
 * [sqlfiddle](http://sqlfiddle.com/)

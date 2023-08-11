@@ -122,6 +122,7 @@ Comparable to jq / yq, but supports JSON, YAML, TOML, XML and CSV with zero runt
 ## Tests
 * [opentest](https://getopentest.org/) Web, mobile and AP testing tool from Mcdonald's
 * [Playwright](https://playwright.dev/) end to end testing for webapps
+* [Gauge](https://gauge.org/) acceptance tests using Markdown
 ## Tools
 * [stepsize](https://www.stepsize.com/)
   Issue tracker from the IDE

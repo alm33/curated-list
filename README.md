@@ -73,6 +73,7 @@ Comparable to jq / yq, but supports JSON, YAML, TOML, XML and CSV with zero runt
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) clever "cd" alternative
 * [JSON Diff](https://www.jsondiff.com/) Compare 2 jsons in any order
 * [Awesome command palette](https://github.com/stefanjudis/awesome-command-palette) list of apps implementing a command palette shortcut
+* [Snippet generator for vscode](https://snippet-generator.app/)
 
 # Backend
 ## Java

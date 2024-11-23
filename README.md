@@ -119,6 +119,7 @@ Comparable to jq / yq, but supports JSON, YAML, TOML, XML and CSV with zero runt
   Angular opensource dashboard template
 * [JSFiddle](https://jsfiddle.net/)
 * [codepen](https://codepen.io/) build and test frontend code
+* [socket.io](https://socket.io/) websocket or http long polling for client server bidirectional communication
 
 # Quality
 ## Tests
